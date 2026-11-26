@@ -1,6 +1,8 @@
 # Indonesia in Numbers — National Statistics Explorer
 
-[![make.fun bounty](https://make.fun/bounty/best-national-statistics-site-20261126-0539)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
+[![make.fun](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
+[![make.fun rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/kreutzx/indonesia-in-numbers/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
+[![make.fun reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/kreutzx/indonesia-in-numbers/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A national statistics site for **Indonesia**: population, economy, health, education and all
